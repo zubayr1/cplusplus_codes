@@ -46,6 +46,12 @@
         "algorithm": "cpp",
         "optional": "cpp",
         "random": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "list": "cpp",
+        "deque": "cpp",
+        "stack": "cpp",
+        "queue": "cpp",
+        "ranges": "cpp",
+        "span": "cpp"
     }
 }

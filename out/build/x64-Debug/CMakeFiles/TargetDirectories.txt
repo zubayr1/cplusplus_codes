@@ -1,0 +1,4 @@
+C:/Users/write/OneDrive/Desktop/c++ codes/out/build/x64-Debug/CMakeFiles/CmakeClass.dir
+C:/Users/write/OneDrive/Desktop/c++ codes/out/build/x64-Debug/CMakeFiles/CmakeStruct.dir
+C:/Users/write/OneDrive/Desktop/c++ codes/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/write/OneDrive/Desktop/c++ codes/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
